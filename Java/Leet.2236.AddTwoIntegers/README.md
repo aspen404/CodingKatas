@@ -9,6 +9,7 @@ These steps will be the same for every kata.
 - Launch IntelliJ
 - Select File -> New -> Project
     - Name it Leet.{number}.{title}   eg Leet.2236.AddTwoIntegers
+    - Select Java
     - Check "Add Sample Code"
     - Click the Create Button
     - Click the Run Button and confirm the Console Output says "hello world"
